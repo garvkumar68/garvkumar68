@@ -1,4 +1,4 @@
-<img src="https://github.com/garvkumar68/garvkumar68/blob/main/banner.png" alt="Garv Kumar Banner" width="100%">
+<img src="" alt="Garv Kumar Banner" width="100%">
 
 # I'm Garv Kumar 👋
 
