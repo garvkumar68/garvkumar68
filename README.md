@@ -1,4 +1,4 @@
-<img src="https://github.com/Rathoreatri03/Rathoreatri03/blob/965c2f131858a0ea5351fda209120b58282fd149/Banner.png" alt="Garv Kumar Banner" width="100%">
+<img src="https://github.com/garvkumar68/garvkumar68/blob/main/banner.png" alt="Garv Kumar Banner" width="100%">
 
 # I'm Garv Kumar 👋
 
