@@ -30,17 +30,20 @@ I'm a *Computer Science* student specializing in *AI and ML*, with experience in
 ---
 
 ## 🔭 Current Projects
+### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/Projects/tree/main/A.C.E.)
+Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,
+HTML, CSS, JavaScript, Google Maps API, Flask
+Developed model to detect and report accidents
+▪ IoT and ML-based System uses MPU6050, GPS & ESP32.
+▪ Uses SMTP to notify authorities with exact location and images.
+▪ User friendly UI/UX, works as black box for vehicle
+▪ Built according to business models
+
 ### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/Projects/tree/main/GenAi-interactive-story-generator)
 Python, Flask, Stable diffusion, Intel base toolkit, text Generation
 Developed Story generator which takes input of Story genre, Beginning and word limit
 Generates story based on prompt
 Generates Images based on generated story with Interactive UI/UX
-
-### 🛡 [To detect driver drowsiness](https://github.com/garvkumar68/Projects/tree/main/detect_driver_drowsiness_model)
-Python, OpenCV, Computer vision, TensorFlow, CNN, IOT
-Developed model to detect if the driver is feeling drowsy
-Based on OpenCV and trained the model from Kaggle dataset of jpg images
-Used ESP32 using Blynk IOT API for output and Mail system to alert the closed ones.
 
 ### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/Projects/tree/main/robot_3d_sketch)
 Autodesk Fusion 360
