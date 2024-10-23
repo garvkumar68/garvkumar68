@@ -32,20 +32,20 @@ I'm a *Computer Science* student specializing in *AI and ML*, with experience in
 ## 🔭 Current Projects
 ### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)  
 <img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img1.jpg" alt="Robot Image 1" width="400">
-Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,      
-HTML, CSS, JavaScript, Google Maps API, Flask      
-Developed model to detect and report accidents      
-▪ IoT and ML-based System uses MPU6050, GPS & ESP32.      
-▪ Uses SMTP to notify authorities with exact location and images.      
-▪ User friendly UI/UX, works as black box for vehicle   
-▪ Built according to business models  
+Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,<br>
+HTML, CSS, JavaScript, Google Maps API, Flask      <br>
+Developed model to detect and report accidents      <br>
+▪ IoT and ML-based System uses MPU6050, GPS & ESP32.    <br>  
+▪ Uses SMTP to notify authorities with exact location and images.<br>      
+▪ User friendly UI/UX, works as black box for vehicle   <br>
+▪ Built according to business models  <br>
 
 
 ### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/Projects/tree/main/GenAi-interactive-story-generator)  
-Python, Flask, Stable diffusion, Intel base toolkit, text Generation  
-Developed Story generator which takes input of Story genre, Beginning and word limit  
-Generates story based on prompt  
-Generates Images based on generated story with Interactive UI/UX  
+Python, Flask, Stable diffusion, Intel base toolkit, text Generation <br>
+▪ Developed Story generator which takes input of Story genre, Beginning and word limit<br>
+▪ Generates story based on prompt<br>
+▪ Generates Images based on generated story with Interactive UI/UX<br>
 
 ### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)  
 <img src="https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png" alt="Robot Image 2" width="400">
@@ -53,7 +53,7 @@ Generates Images based on generated story with Interactive UI/UX
 Autodesk Fusion  
 ▪ Designed a 3D blueprint of a robot for Smart India Hackathon 2023 using Autodesk Fusion 360.  
 ▪ The robot features a lightweight aluminum exterior and an aerodynamic design.  
-▪ Powered by an integrated wire system instead of  
+▪ Powered by an integrated wire system instead of batteries, increases work capacity, and eliminates e-waste. <br>
   
 ## 📊 GitHub Stats  
 
