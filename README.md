@@ -32,13 +32,14 @@ I'm a *Computer Science* student specializing in *AI and ML*, with experience in
 ## 🔭 Current Projects
 ### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)  
 <img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img1.jpg" alt="Robot Image 1" width="400">
-Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,    
-HTML, CSS, JavaScript, Google Maps API, Flask    
-Developed model to detect and report accidents    
-▪ IoT and ML-based System uses MPU6050, GPS & ESP32.    
-▪ Uses SMTP to notify authorities with exact location and images.    
-▪ User friendly UI/UX, works as black box for vehicle    
-▪ Built according to business models    
+Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,      
+HTML, CSS, JavaScript, Google Maps API, Flask      
+Developed model to detect and report accidents      
+▪ IoT and ML-based System uses MPU6050, GPS & ESP32.      
+▪ Uses SMTP to notify authorities with exact location and images.      
+▪ User friendly UI/UX, works as black box for vehicle   
+▪ Built according to business models  
+
 
 ### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/Projects/tree/main/GenAi-interactive-story-generator)  
 Python, Flask, Stable diffusion, Intel base toolkit, text Generation  
