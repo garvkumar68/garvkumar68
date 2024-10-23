@@ -30,30 +30,30 @@ I'm a *Computer Science* student specializing in *AI and ML*, with experience in
 ---
 
 ## 🔭 Current Projects
-### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)
-Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,
-HTML, CSS, JavaScript, Google Maps API, Flask
-Developed model to detect and report accidents
-▪ IoT and ML-based System uses MPU6050, GPS & ESP32.
-▪ Uses SMTP to notify authorities with exact location and images.
-▪ User friendly UI/UX, works as black box for vehicle
-▪ Built according to business models
+### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)  
+Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,  
+HTML, CSS, JavaScript, Google Maps API, Flask  
+Developed model to detect and report accidents  
+▪ IoT and ML-based System uses MPU6050, GPS & ESP32.  
+▪ Uses SMTP to notify authorities with exact location and images.  
+▪ User friendly UI/UX, works as black box for vehicle  
+▪ Built according to business models  
 
-### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/Projects/tree/main/GenAi-interactive-story-generator)
-Python, Flask, Stable diffusion, Intel base toolkit, text Generation
-Developed Story generator which takes input of Story genre, Beginning and word limit
-Generates story based on prompt
-Generates Images based on generated story with Interactive UI/UX
+### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/Projects/tree/main/GenAi-interactive-story-generator)  
+Python, Flask, Stable diffusion, Intel base toolkit, text Generation  
+Developed Story generator which takes input of Story genre, Beginning and word limit  
+Generates story based on prompt  
+Generates Images based on generated story with Interactive UI/UX  
 
-### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)
-![Robot Image1](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png) 
-
-Autodesk Fusion
-▪ Designed a 3D blueprint of a robot for Smart India Hackathon 2023 using Autodesk Fusion 360.
-▪ The robot features a lightweight aluminum exterior and an aerodynamic design.
-▪ Powered by an integrated wire system instead of
-
-## 📊 GitHub Stats
+### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)  
+![Robot Image1](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png)   
+  
+Autodesk Fusion  
+▪ Designed a 3D blueprint of a robot for Smart India Hackathon 2023 using Autodesk Fusion 360.  
+▪ The robot features a lightweight aluminum exterior and an aerodynamic design.  
+▪ Powered by an integrated wire system instead of  
+  
+## 📊 GitHub Stats  
 
 ![Garv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvkumar68&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvkumar68&layout=compact&theme=tokyonight)
