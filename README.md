@@ -47,10 +47,11 @@ Generates Images based on generated story with Interactive UI/UX
 
 ### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)
 ![Robot Image1](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png) 
-Autodesk Fusion 360
-Designed a 3D blueprint of a robot for Smart India Hackathon 2023 using Autodesk Fusion 360.
-The robot features a lightweight aluminum exterior and an aerodynamic design.
-Powered by an integrated wire system instead of batteries, increases work capacity, and eliminates e-waste.
+
+Autodesk Fusion
+▪ Designed a 3D blueprint of a robot for Smart India Hackathon 2023 using Autodesk Fusion 360.
+▪ The robot features a lightweight aluminum exterior and an aerodynamic design.
+▪ Powered by an integrated wire system instead of
 
 ## 📊 GitHub Stats
 
