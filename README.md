@@ -31,6 +31,7 @@ I'm a *Computer Science* student specializing in *AI and ML*, with experience in
 
 ## 🔭 Current Projects
 ### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)  
+<img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img1.jpg" alt="Robot Image 1" width="400">
 Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,  
 HTML, CSS, JavaScript, Google Maps API, Flask  
 Developed model to detect and report accidents  
