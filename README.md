@@ -47,7 +47,7 @@ Generates story based on prompt
 Generates Images based on generated story with Interactive UI/UX  
 
 ### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)  
-![Robot Image1](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png)   
+<img src="https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png" alt="Robot Image 2" width="400">
   
 Autodesk Fusion  
 ▪ Designed a 3D blueprint of a robot for Smart India Hackathon 2023 using Autodesk Fusion 360.  
