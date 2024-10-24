@@ -41,7 +41,7 @@ Developed model to detect and report accidents      <br>
 ▪ Built according to business models  <br>
 
 
-### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/Projects/tree/main/GenAi-interactive-story-generator)  
+### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/GenAi-interactive-story-generator)  
 Python, Flask, Stable diffusion, Intel base toolkit, text Generation <br>
 ▪ Developed Story generator which takes input of Story genre, Beginning and word limit<br>
 ▪ Generates story based on prompt<br>
