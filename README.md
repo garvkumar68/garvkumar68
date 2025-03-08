@@ -41,6 +41,44 @@ Developed model to detect and report accidents      <br>
 ▪ Built according to business models  <br>
 
 
+# [Brain Wizard](https://github.com/garvkumar68/BrainWizard-website)
+[Website](https://garvkumar68.github.io/BrainWizard-website/)
+
+**Brain Wizard** is an AI-powered mental health assistant designed to provide real-time support through speech and text interactions. It utilizes **speech recognition**, **sentiment analysis**, and **mental disorder detection** to analyze conversations and generate insightful reports.
+
+## Features
+- **🗣 Speech & Text Interaction**: Supports both spoken and typed inputs.
+- **📊 AI-Powered Sentiment Analysis**: Detects user emotions and mental states.
+- **🧠 Mental Disorder Detection**: Uses transformer models to analyze conversations.
+- **🧘 Meditation Advice**: Offers calming exercises and mindfulness tips.
+- **📄 PDF Report Generation**: Summarizes analysis results and emails them via SMTP.
+- **🌐 Web & Wearable Support**: Designed for both desktop and wearable devices.
+
+## 🚀 Technologies Used
+- **Speech Recognition**
+- **AI Text-to-Speech (TTS)**
+- **Transformers (Sentiment & Mental Disorder Analysis)**
+- **PDF Report Generation**
+- **SMTP Emailing**
+- **Web & Wearable Platform Support**
+
+
+### 🩺 [Medical Diagnosis System](https://github.com/garvkumar68/Murphy-System)<br>
+[Click here for website](https://garvkumar68.github.io/Murphy-System/) <br>
+A comprehensive Medical Diagnosis System that includes multiple disease detection modules using Machine Learning and Deep Learning models. The system currently supports: <br>
+✅ Brain Tumor Detection<br>
+✅ Breast Cancer Classification<br>
+✅ General Disease Prediction based on symptoms<br>
+
+🚀 Features<br>
+🔬 Brain Tumor Detection: Analyzes MRI images to detect the presence of tumors 🧠<br>
+🎗 Breast Cancer Classification: Classifies breast cancer images into Benign, Malignant, or Normal 🏥<br>
+🤒 Symptom-Based Disease Prediction: Predicts possible diseases based on input symptoms 💉<br>
+📄 Automated Report Generation: Generates detailed PDF reports for all diagnoses 📝<br>
+🌐 Cross-Origin Support: Enabled CORS for web application integration 🔗<br>
+🔄 RESTful API: Simple and consistent API endpoints for all services ⚙️<br>
+
+
 ### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/GenAi-interactive-story-generator)  
 Python, Flask, Stable diffusion, Intel base toolkit, text Generation <br>
 ▪ Developed Story generator which takes input of Story genre, Beginning and word limit<br>
