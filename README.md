@@ -31,8 +31,8 @@ I'm a *Computer Science* student specializing in *AI and ML*, with experience in
 
 ---
 
-## 🔭 Current Projects
-### 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)  
+# 🔭 Current Projects
+# 🛡 [Accident Crash Detection Emergency System](https://github.com/garvkumar68/A.C.E)  
 <img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img1.jpg" alt="Robot Image 1" width="400">
 Python, OpenCV, Computer vision, TensorFlow, CNN, IOT, ML,<br>
 HTML, CSS, JavaScript, Google Maps API, Flask      <br>
@@ -65,7 +65,7 @@ Developed model to detect and report accidents      <br>
 - **Web & Wearable Platform Support**
 
 
-### 🩺 [Medical Diagnosis System](https://github.com/garvkumar68/Murphy-System)<br>
+# 🩺 [Medical Diagnosis System](https://github.com/garvkumar68/Murphy-System)<br>
 [Click here for website](https://garvkumar68.github.io/Murphy-System/) <br>
 A comprehensive Medical Diagnosis System that includes multiple disease detection modules using Machine Learning and Deep Learning models. The system currently supports: <br>
 ✅ Brain Tumor Detection<br>
@@ -87,7 +87,7 @@ Python, Flask, Stable diffusion, Intel base toolkit, text Generation <br>
 ▪ Generates story based on prompt<br>
 ▪ Generates Images based on generated story with Interactive UI/UX<br>
 
-### 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)  
+# 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)  
 <img src="https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png" alt="Robot Image 2" width="400">
   
 Autodesk Fusion  
