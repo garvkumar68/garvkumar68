@@ -80,13 +80,6 @@ A comprehensive Medical Diagnosis System that includes multiple disease detectio
 🌐 Cross-Origin Support: Enabled CORS for web application integration 🔗<br>
 🔄 RESTful API: Simple and consistent API endpoints for all services ⚙️<br>
 
-
-### 📖 [GenAI interactive Story generator](https://github.com/garvkumar68/GenAi-interactive-story-generator)  
-Python, Flask, Stable diffusion, Intel base toolkit, text Generation <br>
-▪ Developed Story generator which takes input of Story genre, Beginning and word limit<br>
-▪ Generates story based on prompt<br>
-▪ Generates Images based on generated story with Interactive UI/UX<br>
-
 # 🎮 [3D Design/Blueprint of smart cleaning robot for High riser buildings](https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/tree/main)  
 <img src="https://github.com/garvkumar68/HIGH-RISER-ROBOT-3D-DESIGN/blob/main/robotpic/Picture1.png" alt="Robot Image 2" width="400">
   
