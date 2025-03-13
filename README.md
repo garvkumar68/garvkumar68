@@ -38,11 +38,11 @@ AstroTerra is an advanced framework designed to analyze the lunar plane by utili
 The primary objective is to streamline moon crater detection and support rover navigation.<br>
 
 ## Key Features
-Automated Crater Detection: Utilizing YOLOv8l deep learning model optimized on a self-labeled dataset
-Efficient Processing: Handles ultra-high-resolution OHRC images (12,000 × 90,148 pixels)
-Intelligent Path Planning: A* algorithm implementation for optimal rover trajectory planning
-Box Map Analysis: Combines overlapping bounding boxes into unified crater regions
-Pixel-to-Lunar Coordinate Mapping: Ensures precise geospatial alignment
+- **Automated Crater Detection**: Utilizing YOLOv8l deep learning model optimized on a self-labeled dataset
+- **Efficient Processing**: Handles ultra-high-resolution OHRC images (12,000 × 90,148 pixels)
+- **Intelligent Path Planning**: A* algorithm implementation for optimal rover trajectory planning
+- **Box Map Analysis**: Combines overlapping bounding boxes into unified crater regions
+- **Pixel-to-Lunar Coordinate Mapping**: Ensures precise geospatial alignment
 ![Shortest Path GIF](https://github.com/garvkumar68/AstroTerra/blob/main/img/rover_path.gif)
 
 
